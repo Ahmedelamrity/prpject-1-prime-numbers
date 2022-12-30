@@ -1,0 +1,8 @@
+E:\Users\raya\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+E:\Users\raya\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+E:\Users\raya\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+E:\Users\raya\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+E:\Users\raya\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+E:\Users\raya\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+E:\Users\raya\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+E:\Users\raya\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
